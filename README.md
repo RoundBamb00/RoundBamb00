@@ -40,20 +40,6 @@
 
   <hr />
 
-
-  <h2 align="center">My personal hobby</h2>
-
- <p align="center">
-  研习 <strong>大六壬</strong>、<strong>七政四余</strong> 之术，感其奥秘无穷，至今仍潜心修习，未敢言通。旁及 <strong>时刻天机</strong>、<strong>飞宫小奇门</strong> 之精微，亦探风水 <strong>金锁玉关</strong> 之妙理。正深入阴阳五行、干支变化之源，窥命理之根本，察天地之变迁。非为趋吉避凶之术客，乃承古贤之心法；以一壬一课，探人事机微；以星辰运转，观世道之势。
-</p>
-
-<p align="center">
-  与易友贺兰携手开发独门卜数， <a href="https://sktj.maozi.io/" target="_blank"><strong>“时刻天机”</strong></a> 排盘软件，融合诸术，精研时位，愿启后学之思，助有缘之人。 愿以今人之思续千年之道，用术数之光照天地之理，弘吾华夏之正脉，传国学于万世。
-</p>
-
-<p align="center">
-  <strong>观天之道，执天之行，尽矣！</strong>
-</p>
 <!-- <p align="center">
   I delve into the study of *Da Liu Ren* and *Qi Zheng Si Yu*, both profound systems of Chinese metaphysics whose mysteries remain unfathomable. I continue to study them with humility and reverence. In addition, I explore the intricacies of *Xiao Cheng Tu*, *Xiao Qi Men*, and the geomantic wisdom of *Jin Suo Yu Guan* (Golden Lock Jade Barrier). My current focus is on the principles of Yin-Yang, the Five Elements, and the transformations of the Heavenly Stems and Earthly Branches—seeking the origins of destiny and observing the shifting patterns of Heaven and Earth.
 
