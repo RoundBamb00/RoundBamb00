@@ -1,44 +1,54 @@
 <div align="center">
   <h1 align="center">Round Bamboo</h1>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Student+%40+XMUT;Collaborative+Communicator;New+Technology+Enthusiast;Self-Motivated+Problem+Solver;NLP+Researcher;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
-  </p>
 
-  <hr />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Student+%40+UNSW;Collaborative+Communicator;New+Technology+Enthusiast;Self-Motivated+Problem+Solver;NLP+Researcher;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+</p>
+<hr />
+<h2 align="center">🔬 Research Interests</h2>
 
-  <h2 align="center">🔬 Research Interests</h2>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Natural%20Language%20Processing-2AA889?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
-    <img src="https://img.shields.io/badge/Large%20Language%20Models-2AA889?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
-    </p>
-    <p align="center">
-    <img src="https://img.shields.io/badge/Machine%20Learning-2AA889?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML" />
-    <img src="https://img.shields.io/badge/Knowledge%20Graph-2AA889?style=for-the-badge&logo=neo4j&logoColor=white" alt="KG" />
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-2AA889?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-2AA889?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Multimodal%20AI-2AA889?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Multimodal" />
+  <img src="https://img.shields.io/badge/AI%20Agent-2AA889?style=for-the-badge&logo=probot&logoColor=white" alt="Agent" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20for%20Battery-2AA889?style=for-the-badge&logo=battledotnet&logoColor=white" alt="AI4Battery" />
+  <img src="https://img.shields.io/badge/Knowledge%20Graph-2AA889?style=for-the-badge&logo=neo4j&logoColor=white" alt="KG" />
+</p>
 
-  <p align="center">
-    <strong>Natural Language Processing</strong><br>
-    • Topic Modeling • Sentiment Analysis
-  </p>
-
-  <p align="center">
-    <strong>Large Language Models</strong><br>
-    • Prompt Engineering • RAG • Model Fine-tuning • LLM Services & Applications
-  </p>
-
-  <p align="center">
-    <strong>Knowledge Graph</strong><br>
-    • Named Entity Recognition(Triple Extraction) • Knowledge Graph Construction • Graph RAG
-  </p>
-
-  <p align="center">
-    <strong>Event Study Methodology</strong><br>
-    • Market Impact Analysis • Event Detection
-  </p>
-
-  <hr />
+<p align="center">
+  <strong>Multimodal AI</strong><br>
+  • Vision-Language Models • Cross-Modal Reasoning • Multimodal RAG
+</p>
+<p align="center">
+  <strong>AI Agent</strong><br>
+  • Tool-Augmented LLM Agents • Multi-Agent Systems • Autonomous Planning & Reasoning
+</p>
+<p align="center">
+  <strong>AI for Battery</strong><br>
+  • Battery Degradation Prediction • Materials Discovery • Intelligent Battery Management
+</p>
+<p align="center">
+  <strong>Natural Language Processing</strong><br>
+  • Topic Modeling • Sentiment Analysis
+</p>
+<p align="center">
+  <strong>Large Language Models</strong><br>
+  • Prompt Engineering • RAG • Model Fine-tuning • LLM Services & Applications
+</p>
+<p align="center">
+  <strong>Knowledge Graph</strong><br>
+  • Named Entity Recognition (Triple Extraction) • Knowledge Graph Construction • Graph RAG
+</p>
+<p align="center">
+  <strong>Event Study Methodology</strong><br>
+  • Market Impact Analysis • Event Detection
+</p>
+<hr />
 
 <!-- <p align="center">
   I delve into the study of *Da Liu Ren* and *Qi Zheng Si Yu*, both profound systems of Chinese metaphysics whose mysteries remain unfathomable. I continue to study them with humility and reverence. In addition, I explore the intricacies of *Xiao Cheng Tu*, *Xiao Qi Men*, and the geomantic wisdom of *Jin Suo Yu Guan* (Golden Lock Jade Barrier). My current focus is on the principles of Yin-Yang, the Five Elements, and the transformations of the Heavenly Stems and Earthly Branches—seeking the origins of destiny and observing the shifting patterns of Heaven and Earth.
