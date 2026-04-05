@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">CliffCedar0 / 悬崖雪松</h1>
+  <h1 align="center">Round Bamboo</h1>
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Student+%40+XMUT;Collaborative+Communicator;New+Technology+Enthusiast;Self-Motivated+Problem+Solver;NLP+Researcher;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
